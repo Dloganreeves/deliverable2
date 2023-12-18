@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\deliverable2\bin\Debug\net8.0\deliverable2.exe
+C:\Users\logan\source\repos\deliverable2\bin\Debug\net8.0\deliverable2.deps.json
+C:\Users\logan\source\repos\deliverable2\bin\Debug\net8.0\deliverable2.runtimeconfig.json
+C:\Users\logan\source\repos\deliverable2\bin\Debug\net8.0\deliverable2.dll
+C:\Users\logan\source\repos\deliverable2\bin\Debug\net8.0\deliverable2.pdb
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.AssemblyInfo.cs
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.dll
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\refint\deliverable2.dll
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.pdb
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\deliverable2.genruntimeconfig.cache
+C:\Users\logan\source\repos\deliverable2\obj\Debug\net8.0\ref\deliverable2.dll
